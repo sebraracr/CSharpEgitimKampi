@@ -297,48 +297,48 @@ namespace _03_MakingDecision
 
             #endregion
             #region Switch case hesap makinesi
-            int number1, number2, result;
-            char symbol;
+            //int number1, number2, result;
+            //char symbol;
 
 
-            Console.WriteLine("1. Sayıyı giriniz: ");
-            number1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("1. Sayıyı giriniz: ");
+            //number1 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("2. Sayıyı giriniz: ");
-            number2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("2. Sayıyı giriniz: ");
+            //number2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Lütfen yapmak istediğiniz işlemi seçiniz: (+, -, *, /)");
-            symbol = char.Parse(Console.ReadLine());
+            //Console.WriteLine("Lütfen yapmak istediğiniz işlemi seçiniz: (+, -, *, /)");
+            //symbol = char.Parse(Console.ReadLine());
 
-            switch (symbol)
-            {
-                case '+':
-                    result = number1 + number2;
-                    Console.WriteLine("Toplam: " + result);
-                    break;
-                case '-':
-                    result = number1 - number2;
-                    Console.WriteLine("Fark: " + result);
-                    break;
-                case '*':
-                    result = number1 * number2;
-                    Console.WriteLine("Çarpım: " + result);
-                    break;
-                case '/':
-                    if (number2 != 0)
-                    {
-                        result = number1 / number2;
-                        Console.WriteLine("Bölüm: " + result);
-                    }
-                    else
-                    {
-                        Console.WriteLine("Bir sayıyı sıfıra bölemezsiniz.");
-                    }
-                    break;
-                default:
-                    Console.WriteLine("Geçersiz işlem seçtiniz.");
-                    break;
-            }
+            //switch (symbol)
+            //{
+            //    case '+':
+            //        result = number1 + number2;
+            //        Console.WriteLine("Toplam: " + result);
+            //        break;
+            //    case '-':
+            //        result = number1 - number2;
+            //        Console.WriteLine("Fark: " + result);
+            //        break;
+            //    case '*':
+            //        result = number1 * number2;
+            //        Console.WriteLine("Çarpım: " + result);
+            //        break;
+            //    case '/':
+            //        if (number2 != 0)
+            //        {
+            //            result = number1 / number2;
+            //            Console.WriteLine("Bölüm: " + result);
+            //        }
+            //        else
+            //        {
+            //            Console.WriteLine("Bir sayıyı sıfıra bölemezsiniz.");
+            //        }
+            //        break;
+            //    default:
+            //        Console.WriteLine("Geçersiz işlem seçtiniz.");
+            //        break;
+            //}
 
 
 
