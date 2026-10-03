@@ -125,18 +125,18 @@ namespace _04_Loops
 
             #region Örnek Sınav Sorusu
 
-            int number, sum;
-            Console.Write("Lütfen 3 basamaklı bir sayı giriniz:");
-            number = int.Parse(Console.ReadLine());
+            //int number, sum;
+            //Console.Write("Lütfen 3 basamaklı bir sayı giriniz:");
+            //number = int.Parse(Console.ReadLine());
 
-            int a, b, c;
+            //int a, b, c;
 
-            a = number / 100;
-            b = (number / 10) % 10;
-            c = number % 10;
+            //a = number / 100;
+            //b = (number / 10) % 10;
+            //c = number % 10;
 
-            sum = a + b + c;
-            Console.WriteLine(sum);
+            //sum = a + b + c;
+            //Console.WriteLine(sum);
 
 
 
