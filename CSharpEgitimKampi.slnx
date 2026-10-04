@@ -5,4 +5,5 @@
   <Project Path="04_Loops/04_Loops.csproj" Id="135c9363-9b0d-4fbf-bd3e-2f8b35d54962" />
   <Project Path="05_LoopsWithStars/05_LoopsWithStars.csproj" Id="30ac0931-64d3-458e-887f-7a0ebf6be112" />
   <Project Path="06_Arrays/06_Arrays.csproj" Id="2455be53-4492-4e6d-a8e5-672b3355c9ca" />
+  <Project Path="07_ForeachLoop/07_ForeachLoop.csproj" Id="1371a1b0-acce-45cd-8e40-fa31991df366" />
 </Solution>
