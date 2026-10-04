@@ -7,4 +7,5 @@
   <Project Path="06_Arrays/06_Arrays.csproj" Id="2455be53-4492-4e6d-a8e5-672b3355c9ca" />
   <Project Path="07_ForeachLoop/07_ForeachLoop.csproj" Id="1371a1b0-acce-45cd-8e40-fa31991df366" />
   <Project Path="08_Methods/08_Methods.csproj" Id="48993aed-77a8-4634-937b-04543d4ca13d" />
+  <Project Path="09_DatabaseProject/09_DatabaseProject.csproj" Id="ff516c6d-e815-436e-8107-13da2fd62be7" />
 </Solution>
